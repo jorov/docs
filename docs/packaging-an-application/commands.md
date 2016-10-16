@@ -21,7 +21,7 @@ the command in an Ubuntu Trusty container.
 
 The command is run at YAML import time only (during app installation & during app updates).
 
-Below is an example of a command that will generate a private key, a x509 certificate, and an random admin password that
+Below is an example of a command that will generate a private key, a x509 certificate, and a random admin password that
 is used as in configuring our app.
 
 ```yml
